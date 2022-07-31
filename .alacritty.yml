@@ -1,0 +1,18 @@
+window:
+  opacity: 0.96
+
+font:
+  draw_bold_text_with_bright_colors: true
+  size: 13.3
+  normal:
+    family: "Go Mono Nerd Font"
+    style: normal
+  bold:
+    family: "Go Mono Nerd Font"
+    style: bold
+  italic:
+    family: "Go Mono Nerd Font"
+    style: italic 
+
+# themes
+
